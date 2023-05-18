@@ -1,3 +1,7 @@
+#  MADE BY:_   
+# ░E░l░e░n░a░ ░G░.░ ░Y░a░n░k░o░v░a░
+# 'Guess A Number' Game
+
 import random
 from colorama import Fore, Back
 
